@@ -1,0 +1,23 @@
+body {
+  background-color: #e6ecf0;
+}
+.candidato {
+  width: 70%;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 10px;
+  margin: auto;
+}
+.margem {
+  width: 50%;
+    border-radius: 10px;
+  background-color: rgb(141, 141, 141);
+  margin: 10px auto;
+  padding: 10px;
+}
+.logo {
+  width: 50px;
+}
+.img{
+  height: 100px;
+}
